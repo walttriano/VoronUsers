@@ -10,7 +10,7 @@ This is an attempt to adapt the Switchwire design and mechanic components to a m
 2. The electronics are based around the original Switchwire scheme, however, the Ender 3 Pro/V2 24V power supply is used. All electronics are mounted below the deck, as per the original Switchwire design, while the Mini12864 LCD screen has been used as standard.
 3. The deck can be easily printed in 4 sections.
 4. The XZ is modified for the 2020/2040 extrusion dimensions, while Gantry preserves the 300mm rail, used in the original Switchwire (in an attempt to keep all rails in common dimensions).
-5. The Y axis is using 2 rails. This makes the Y more stable, while it simplifies the Y belt routing through the extrustion. Bed springs are replaced with spacers (the spacers come off the Ender 3 Pro/V2 V-wheels).  With the bed mesh probing, this seems like a better approach than worrying about the bed changing positions if the knobs rotate/get loosened.
+5. The Y axis is using 2 rails. This makes the Y more stable, while it simplifies the Y belt routing through the extrustion. Bed springs are replaced with spacers (the spacers come off the Ender 3 Pro/V2 V-wheels).  With the bed mesh probing, this seems like a better approach than worrying about the bed changing positions if the knobs rotate/get loosened. Remember you need to forward the Y extrusion forward for one set of holes in order to preserve the Y available moving space
 6. The Ender 3 Pro/V2 motors can be reused if you can pull of the gears.
 7. The design incorporates the original enclosure and is extending the side extrusions for 40mm (for aesthetic and functionality purposes).
 
