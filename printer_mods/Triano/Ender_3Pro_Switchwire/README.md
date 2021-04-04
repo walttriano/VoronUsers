@@ -1,8 +1,8 @@
 #  Ender 3 Pro/V2 to Switchwire Conversion
 This is an attempt to adapt the Switchwire design and mechanic components to a much different base (Ender 3 Pro/V2), without major sacrifice in terms of aesthetics and function. Although the parts are adapted to Ender's frame, they are still designed according to Voron's design guidelines and principles.
 
-![Home](Images/mk_VIII.png)
-![Home](Images/mk_VIII_enclosed.png)
+![Home](Images/1.png)
+![Home](Images/2.png)
 
 ## Overview
 - This mod is using several key components from the Ender 3 Pro/V2, while providing a coreXZ capability. The highlights of this include:
