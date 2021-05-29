@@ -1,3 +1,5 @@
+# CAUTION: THIS IS A HEAVY WIP ATM, USE IT AT YOUR OWN RISK
+
 #  Ender 3 Pro/V2 to Switchwire Conversion
 This is an attempt to adapt the Switchwire design and mechanic components to a much different base (Ender 3 Pro/V2), without major sacrifice in terms of aesthetics and function. Although the parts are adapted to Ender's frame, they are still designed according to Voron's design guidelines and principles.
 
@@ -15,13 +17,13 @@ This is an attempt to adapt the Switchwire design and mechanic components to a m
 7. The design incorporates the original enclosure and is extending the side extrusions for 40mm (for aesthetic and functionality purposes).
 
 ## Images / CAD
-STEP and .f3d files are included, along with images of the conversion.
+STEP ~~and .f3d~~ files are included, along with images of the conversion.
 
 ## DXF Files
 soon
 
 ## BOM
-A BOM has been added that is based on the baseline Switchwire. This will not be perfect as the Ender 3's get a lot of mods by their owners. It should help with most of the key items to make the MOD. 
+WIP
 
 ## Config
 Phalanx and Lord Derpson have shared their printer.cfg files (with the SKR E3 Mini V2 as a base)
